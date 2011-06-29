@@ -36,5 +36,11 @@ Thumbs.db
 
 #  IDEs Preferences  #
 ######################
-.classpath
 .settings/*
+
+#  Other Versions M. #
+######################
+.svn/*
+*/.svn/*
+*/*/.svn/*
+*/*/*/.svn/*
